@@ -1,0 +1,12 @@
+ccdb29f14597ad55721b16cbef26820d *DESCRIPTION
+72b6074d64664ff0337476f2b4bdd36a *NAMESPACE
+8e7dac3a4effef4f1053a0877601dee5 *R/buildTheme.R
+a032ba5c9ccbca44315277f996f69332 *R/constants.R
+3511177dac6bc0a615cf159b1602b574 *R/constructThemeString.R
+7b0e3cdacbab8545c4c1a0ff63d5a29b *R/ggThemeAssist-package.R
+ccf7b5dcc299090752d71308a14a3b0e *R/ggThemeAssist.R
+75483dd1aa534e9f29955458f136a6ab *R/helpers.R
+54e38b4155fa8c42a9504a9d76261f7f *R/is.valid.R
+c0d188a6fa24f2c41f1de0b4b1b39c07 *R/updateDefaults.R
+1a476996eba30cd8ed10ec5defc10c61 *inst/rstudio/addins.dcf
+51da070e41f67177ec9a18ed79fbbd5e *man/ggThemeAssist.Rd
