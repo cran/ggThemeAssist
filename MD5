@@ -1,4 +1,4 @@
-c8d1ddd48ba751986c17e96e9f947bbe *DESCRIPTION
+d22ae8d0cc3c14f01c4285f9c1495d25 *DESCRIPTION
 3f2df5c670b0aefbc2a1c90a544e88b4 *NAMESPACE
 01fa6ba4a7401e2e818abbc375006c18 *R/constants.R
 7952ceff4daef37415251e9d2eee0917 *R/constructThemeString.R
@@ -7,6 +7,6 @@ b2ca753a6aff9e8694d01dc91e1b292c *R/ggThemeAssist-package.R
 9c8bde790ab231c0209eafc7ad4ca84f *R/ggThemeAssist.R
 9a8c8515f28fedf249a207220fe036a2 *R/helpers.R
 947d6ac0ea7d54f8879b01c2f137e371 *R/jsHelpers.R
-0c85989dd9b5a832dde0e70e7aaf557c *R/updateDefaults.R
+c210b62f3aa5cc23c3cd19d8714c34f1 *R/updateDefaults.R
 259803b0312fabdcd16d662c2999bba7 *inst/rstudio/addins.dcf
 6ce6f206ccf5f1500010ee66ef900a5c *man/ggThemeAssist.Rd

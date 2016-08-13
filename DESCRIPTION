@@ -1,7 +1,7 @@
 Package: ggThemeAssist
 Type: Package
 Title: Add-in to Customize 'ggplot2' Themes
-Version: 0.1.4
+Version: 0.1.5
 Author: Calli Gross [aut, cre],
         Philipp Ottolinger [aut, ctb]
 Maintainer: Calli Gross <ggthemeassist@icloud.com>
@@ -15,6 +15,6 @@ Suggests: extrafont
 RoxygenNote: 5.0.1
 Depends: R (>= 3.0.0)
 NeedsCompilation: no
-Packaged: 2016-04-22 21:04:33 UTC; mg
+Packaged: 2016-08-13 14:21:04 UTC; mg
 Repository: CRAN
-Date/Publication: 2016-04-23 08:41:22
+Date/Publication: 2016-08-13 16:50:55
